@@ -1,0 +1,29 @@
+*{
+    margin: 20px;
+    text-align: center;
+    font-size:30px ;
+ }
+  header{
+    border: 10px solid rgb(208, 142, 225);
+    height: 15%;
+    background-color: beige;
+     }
+
+  main{
+    border: 10px solid rgb(208, 142, 225);
+    height: 400px;
+    background-color: aquamarine;
+  }
+
+  footer{
+    border: 10px solid rgb(208, 142, 225);
+    height: 100px;
+    background-color: rgb(4, 205, 255);
+  }
+ a{
+    display: inline-block ;
+    padding:10px ;
+    color: white;
+    background-color: rgb(126, 126, 207);
+    text-decoration: none ;
+ }
